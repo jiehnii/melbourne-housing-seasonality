@@ -33,7 +33,7 @@ The analysis focuses on:
    pip install -r requirements.txt
 3. Open the notebook:
    ```bash
-   jupyter notebook "Melbourne Housing Problem Description.ipynb"
+   jupyter notebook "melbourne_housing_seasonality.ipynb"
 5. Run the cells from top to bottom.
 
 ## Main insights
