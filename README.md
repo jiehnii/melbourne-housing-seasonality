@@ -32,11 +32,9 @@ The analysis focuses on:
    ```bash
    pip install -r requirements.txt
 3. Open the notebook:
-   jupyter notebook "Melbourne Housing Problem Description.ipynb"
-4. Run the cells from top to bottom.
-
    ```bash
-   pip install -r requirements.txt
+   jupyter notebook "Melbourne Housing Problem Description.ipynb"
+5. Run the cells from top to bottom.
 
 ## Main insights
 - Prices tend to be lower around mid–year (e.g. Winter months).
