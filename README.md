@@ -16,6 +16,14 @@ The analysis focuses on:
 - `melb_housing_data.csv`  
   Melbourne housing dataset used in the notebook.
 
+## Key skills demonstrated
+
+- Data cleaning and feature engineering with pandas  
+- Time-based analysis (month, season, weekday/weekend)  
+- Exploratory data analysis (groupby, aggregation, visualisation)  
+- Interpreting plots and regression trends for practical insights  
+- Communicating findings clearly in a Jupyter Notebook
+
 ## Tech stack
 
 - Python
@@ -37,12 +45,14 @@ The analysis focuses on:
 5. Run the cells from top to bottom.
 
 ## Main insights
+
 - Prices tend to be lower around mid–year (e.g. Winter months).
 - Prices are higher at the start and end of the year, especially around December.
 - Weekend sales can show slightly higher prices, likely due to auctions and increased competition.
 - A simple quadratic regression captures a U-shaped pattern over the months.
 
 ## Possible future improvements
+
 - Include more features (suburb, property type, rooms) in a multivariate model.
 - Build predictive models for price (e.g. regression or tree-based models).
 - Extend the analysis to multiple years or other Australian cities.
